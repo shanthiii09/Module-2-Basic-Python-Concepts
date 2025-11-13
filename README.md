@@ -13,6 +13,6 @@ we have output as
 In Task 2 it takes first_name and last_name as input and then shows the greeting message with the first_name and last_name included 
 
 We have output as
-Enter your first name = shanthi
-Enter your last name = siddineni
-Hello, shanthi siddineni! Welcome to the Python program.
+- Enter your first name = shanthi
+- Enter your last name = siddineni
+- Hello, shanthi siddineni! Welcome to the Python program.
